@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fcarmo\\Documents\\Programa\u00E7\u00E3o\\ToDo List\\ToDoListBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE7A336-6D9D-4151-A04A-0938EF42D973}|ToDoListBack\\ToDoListBack.csproj|c:\\users\\fcarmo\\documents\\programa\u00E7\u00E3o\\todo list\\todolistback\\todolistback\\models\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE7A336-6D9D-4151-A04A-0938EF42D973}|ToDoListBack\\ToDoListBack.csproj|solutionrelative:todolistback\\models\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE7A336-6D9D-4151-A04A-0938EF42D973}|ToDoListBack\\ToDoListBack.csproj|c:\\users\\fcarmo\\documents\\programa\u00E7\u00E3o\\todo list\\todolistback\\todolistback\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE7A336-6D9D-4151-A04A-0938EF42D973}|ToDoListBack\\ToDoListBack.csproj|solutionrelative:todolistback\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE7A336-6D9D-4151-A04A-0938EF42D973}|ToDoListBack\\ToDoListBack.csproj|c:\\users\\fcarmo\\documents\\programa\u00E7\u00E3o\\todo list\\todolistback\\todolistback\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE7A336-6D9D-4151-A04A-0938EF42D973}|ToDoListBack\\ToDoListBack.csproj|solutionrelative:todolistback\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE7A336-6D9D-4151-A04A-0938EF42D973}|ToDoListBack\\ToDoListBack.csproj|c:\\users\\fcarmo\\documents\\programa\u00E7\u00E3o\\todo list\\todolistback\\todolistback\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE7A336-6D9D-4151-A04A-0938EF42D973}|ToDoListBack\\ToDoListBack.csproj|solutionrelative:todolistback\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE7A336-6D9D-4151-A04A-0938EF42D973}|ToDoListBack\\ToDoListBack.csproj|c:\\users\\fcarmo\\documents\\programa\u00E7\u00E3o\\todo list\\todolistback\\todolistback\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE7A336-6D9D-4151-A04A-0938EF42D973}|ToDoListBack\\ToDoListBack.csproj|solutionrelative:todolistback\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE7A336-6D9D-4151-A04A-0938EF42D973}|ToDoListBack\\ToDoListBack.csproj|c:\\users\\fcarmo\\documents\\programa\u00E7\u00E3o\\todo list\\todolistback\\todolistback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE7A336-6D9D-4151-A04A-0938EF42D973}|ToDoListBack\\ToDoListBack.csproj|solutionrelative:todolistback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\fcarmo\\Documents\\Programa\u00E7\u00E3o\\ToDo List\\ToDoListBack\\ToDoListBack\\Models\\TaskContext.cs",
+              "RelativeDocumentMoniker": "ToDoListBack\\Models\\TaskContext.cs",
+              "ToolTip": "C:\\Users\\fcarmo\\Documents\\Programa\u00E7\u00E3o\\ToDo List\\ToDoListBack\\ToDoListBack\\Models\\TaskContext.cs",
+              "RelativeToolTip": "ToDoListBack\\Models\\TaskContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:28:44.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\fcarmo\\Documents\\Programa\u00E7\u00E3o\\ToDo List\\ToDoListBack\\ToDoListBack\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "ToDoListBack\\Models\\Categories.cs",
+              "ToolTip": "C:\\Users\\fcarmo\\Documents\\Programa\u00E7\u00E3o\\ToDo List\\ToDoListBack\\ToDoListBack\\Models\\Categories.cs",
+              "RelativeToolTip": "ToDoListBack\\Models\\Categories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:10:40.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\fcarmo\\Documents\\Programa\u00E7\u00E3o\\ToDo List\\ToDoListBack\\ToDoListBack\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ToDoListBack\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\fcarmo\\Documents\\Programa\u00E7\u00E3o\\ToDo List\\ToDoListBack\\ToDoListBack\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ToDoListBack\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:13:26.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\fcarmo\\Documents\\Programa\u00E7\u00E3o\\ToDo List\\ToDoListBack\\ToDoListBack\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "ToDoListBack\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\fcarmo\\Documents\\Programa\u00E7\u00E3o\\ToDo List\\ToDoListBack\\ToDoListBack\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "ToDoListBack\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:44:09.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\fcarmo\\Documents\\Programa\u00E7\u00E3o\\ToDo List\\ToDoListBack\\ToDoListBack\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "ToDoListBack\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\fcarmo\\Documents\\Programa\u00E7\u00E3o\\ToDo List\\ToDoListBack\\ToDoListBack\\Models\\Task.cs",
+              "RelativeToolTip": "ToDoListBack\\Models\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:10:41.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fcarmo\\Documents\\Programa\u00E7\u00E3o\\ToDo List\\ToDoListBack\\ToDoListBack\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoListBack\\Program.cs",
+              "ToolTip": "C:\\Users\\fcarmo\\Documents\\Programa\u00E7\u00E3o\\ToDo List\\ToDoListBack\\ToDoListBack\\Program.cs",
+              "RelativeToolTip": "ToDoListBack\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:54:05.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

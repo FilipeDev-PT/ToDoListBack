@@ -40,21 +40,22 @@ public class taskController : ControllerBase
     }
 
     [HttpPut("{id}")]
-    public async Task<IActionResult> PutTask(int id, Tasks todoDTO)
+    public async Task<IActionResult> PutTask(int id)
     {
         var Task = await _context.Tasks.FindAsync(id);
-        var Category = await _context.Categories.FindAsync(todoDTO.CategoryId);
+
+        var Category = await _context.Categories.FindAsync(Task.CategoryId);
 
         if (Task == null)
         {
             return NotFound();
         }
 
-        Task.Id = todoDTO.Id;
-        Task.Title = todoDTO.Title;
-        Task.CategoryId = todoDTO.CategoryId;
-        Task.Categories = Category;
-        Task.IsCompleted = false;
+        Task.Id = Task.Id;
+        Task.Title = Task.Title;
+        Task.CategoryId = Task.CategoryId;
+        Task.Category = Category.Name;
+        Task.IsCompleted = !Task.IsCompleted;
 
         try
         {
@@ -73,12 +74,18 @@ public class taskController : ControllerBase
     {
         var Category = await _context.Categories.FindAsync(todoDTO.CategoryId);
 
-        var Tasks = new Tasks
+        if (Category == null)
         {
+            return NotFound();
+            
+        }
+
+        var Tasks = new Tasks
+        { 
             Id = todoDTO.Id,
             Title = todoDTO.Title,
             CategoryId = todoDTO.CategoryId,
-            Categories = Category,
+            Category = Category.Name,
             IsCompleted = false,
         };
 
@@ -117,6 +124,7 @@ public class taskController : ControllerBase
         Id = Task.Id,
         Title = Task.Title,
         CategoryId = Task.CategoryId,
-        IsCompleted = false,
+        Category = Task.Category,
+        IsCompleted = Task.IsCompleted,
     };
 }

@@ -45,3 +45,4 @@ C:\Users\fcarmo\Documents\Programação\ToDo List\ToDoListBack\ToDoListBack\obj\
 C:\Users\fcarmo\Documents\Programação\ToDo List\ToDoListBack\ToDoListBack\obj\Debug\net8.0\ToDoListBack.pdb
 C:\Users\fcarmo\Documents\Programação\ToDo List\ToDoListBack\ToDoListBack\obj\Debug\net8.0\ToDoListBack.genruntimeconfig.cache
 C:\Users\fcarmo\Documents\Programação\ToDo List\ToDoListBack\ToDoListBack\obj\Debug\net8.0\ref\ToDoListBack.dll
+C:\Users\fcarmo\Documents\Programação\ToDo List\ToDoListBack\ToDoListBack\obj\Debug\net8.0\ToDoListBack.sourcelink.json

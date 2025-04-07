@@ -4,8 +4,8 @@
     {
         public int Id { get; set; }
         public string? Title { get; set; }
-        public string? CategoryId { get; set; }
-        public Categories? Categories { get; set; }
+        public int CategoryId { get; set; }
+        public string? Category { get; set; }
         public Boolean IsCompleted { get; set; }
     }
 }
